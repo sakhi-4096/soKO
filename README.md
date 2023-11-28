@@ -11,15 +11,13 @@ This is an Android application built for e-commerce purposes, providing users wi
  * Responsive design for a seamless mobile experience
 
 ## Technologies
- * Backend: Node.js
- * Frontend: React.js
- * Database: MongoDB (or specify your preferred database)
- * Authentication: JSON Web Tokens (JWT)
- * State Management: Redux (or any other state management library you prefer)
+ * Backend: 
+ * Frontend: 
+ * Database: 
+ * Authentication: 
+ * State Management: 
 
 ## Getting Started
 Follow these steps to get the application up and running on your local machine.
 #### Prerequisites
- * Node.js installed on your machine
- * npm or yarn package manager
- * MongoDB installed and running
+ * Django installed on your machine
